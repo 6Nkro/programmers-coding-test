@@ -26,6 +26,8 @@
 
 * [혼자서 하는 틱택토(연습 문제)](https://6200.notion.site/52ebe80bf52c4ade9e2595df4fe980ef)
 
+* [영어 끝말잇기(Summer/Winter Coding(~2018))](https://6200.notion.site/Summer-Winter-Coding-2018-f36114bcfdb040f599377a5afc5f87c7)
+
 * [짝지어 제거하기(2017 팁스타운)](https://6200.notion.site/2017-55d42cf0c8364ca38c21c6e22c69a59c)
 
 * [이진 변환 반복하기(월간 코드 챌린지 시즌1)](https://6200.notion.site/1-2e78ddf0e58846f282e435646f10d9a9)
