@@ -33,3 +33,5 @@
 > Level 3
 
 * [베스트 앨범(해시)](https://6200.notion.site/34901f0a1b12413eada1a478b667e1d9)
+
+* [야근 지수(연습 문제)](https://6200.notion.site/0f0c1a08f72b4bab8ef09a26b89b9e6a)
