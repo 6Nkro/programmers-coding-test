@@ -26,6 +26,8 @@
 
 * [혼자서 하는 틱택토(연습 문제)](https://6200.notion.site/52ebe80bf52c4ade9e2595df4fe980ef)
 
+* [파일명 정렬(2018 KAKAO BLIND RECRUITMENT)](https://www.notion.so/6200/2018-KAKAO-BLIND-RECRUITMENT-3533b231dd3b47e9a32beb2249c9f1ff?pvs=4)
+
 * [영어 끝말잇기(Summer/Winter Coding(~2018))](https://6200.notion.site/Summer-Winter-Coding-2018-f36114bcfdb040f599377a5afc5f87c7)
 
 * [짝지어 제거하기(2017 팁스타운)](https://6200.notion.site/2017-55d42cf0c8364ca38c21c6e22c69a59c)
