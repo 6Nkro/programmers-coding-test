@@ -1,4 +1,4 @@
-# programmers-cording-test
+# programmers-coding-test
 
 > Level 1
 
