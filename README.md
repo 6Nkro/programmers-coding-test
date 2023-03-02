@@ -26,6 +26,8 @@
 
 * [혼자서 하는 틱택토(연습 문제)](https://6200.notion.site/52ebe80bf52c4ade9e2595df4fe980ef)
 
+* [마법의 엘리베이터(연습 문제)](https://6200.notion.site/1dcba97c61ae48f0bde709c4b27ec936)
+
 * [문자열 압축(2020 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2020-KAKAO-BLIND-RECRUITMENT-0400315a12394e9d9fc411d9b27a4daa)
 
 * [파일명 정렬(2018 KAKAO BLIND RECRUITMENT)](https://www.notion.so/6200/2018-KAKAO-BLIND-RECRUITMENT-3533b231dd3b47e9a32beb2249c9f1ff?pvs=4)
