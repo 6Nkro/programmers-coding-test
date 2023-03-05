@@ -42,6 +42,8 @@
 
 * [베스트 앨범(해시)](https://6200.notion.site/34901f0a1b12413eada1a478b667e1d9)
 
+* [연속 펄스 부분 수열의 합(연습 문제)](https://6200.notion.site/0b34be6634064640a1dff243c9cd33f1)
+
 * [숫자 게임(Summer/Winter Coding(~2018))](https://6200.notion.site/Summer-Winter-Coding-2018-fc4f3826a7e040789cb64f6436a63d37)
 
 * [야근 지수(연습 문제)](https://6200.notion.site/0f0c1a08f72b4bab8ef09a26b89b9e6a)
