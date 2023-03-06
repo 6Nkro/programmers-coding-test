@@ -22,6 +22,12 @@
 
 * [키패드 누르기(2020 카카오 인턴십)](https://6200.notion.site/2020-2c75f986aa2442789225a6c83c40cf7d)
 
+* [다트 게임(2018 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2018-KAKAO-BLIND-RECRUITMENT-922b4c44401d44a8b77b8d0f9106ebd6)
+
+* [실패율(2019 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2019-KAKAO-BLIND-RECRUITMENT-d911c7db4a774aeb94ef3713bf20dafd)
+
+* [비밀지도(2018 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2018-KAKAO-BLIND-RECRUITMENT-1-3d4a7171f970411caeb5ccd88ab0c8ac)
+
 > Level 2
 
 * [혼자서 하는 틱택토(연습 문제)](https://6200.notion.site/52ebe80bf52c4ade9e2595df4fe980ef)
@@ -30,7 +36,7 @@
 
 * [문자열 압축(2020 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2020-KAKAO-BLIND-RECRUITMENT-0400315a12394e9d9fc411d9b27a4daa)
 
-* [파일명 정렬(2018 KAKAO BLIND RECRUITMENT)](https://www.notion.so/6200/2018-KAKAO-BLIND-RECRUITMENT-3533b231dd3b47e9a32beb2249c9f1ff?pvs=4)
+* [파일명 정렬(2018 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2018-KAKAO-BLIND-RECRUITMENT-3533b231dd3b47e9a32beb2249c9f1ff)
 
 * [영어 끝말잇기(Summer/Winter Coding(~2018))](https://6200.notion.site/Summer-Winter-Coding-2018-f36114bcfdb040f599377a5afc5f87c7)
 
