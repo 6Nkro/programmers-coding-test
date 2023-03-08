@@ -1,5 +1,9 @@
 # programmers-coding-test
 
+> Level 0
+
+* [안전지대(코딩테스트 입문)](https://6200.notion.site/49e6aac204c847b19be9b54c9d78560e)
+
 > Level 1
 
 * [신고 결과 받기(2022 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/7e9dac83e5e24c858e2441ee2df43c4e)
