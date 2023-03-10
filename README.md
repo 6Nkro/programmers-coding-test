@@ -42,6 +42,10 @@
 
 * [파일명 정렬(2018 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2018-KAKAO-BLIND-RECRUITMENT-3533b231dd3b47e9a32beb2249c9f1ff)
 
+* [캐시(2018 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2018-KAKAO-BLIND-RECRUITMENT-911d0eb7dc6d454185eb9ba9c553b9f7)
+
+* [괄호 회전하기(월간 코드 챌린지 시즌2)](https://6200.notion.site/2-a0101bff0f914710864468739ae4ec10)
+
 * [영어 끝말잇기(Summer/Winter Coding(~2018))](https://6200.notion.site/Summer-Winter-Coding-2018-f36114bcfdb040f599377a5afc5f87c7)
 
 * [짝지어 제거하기(2017 팁스타운)](https://6200.notion.site/2017-55d42cf0c8364ca38c21c6e22c69a59c)
