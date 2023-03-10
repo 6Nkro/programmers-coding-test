@@ -10,6 +10,8 @@
 
 * [대충 만든 자판(연습 문제)](https://6200.notion.site/c7299ac86e804cea8ba7ace55bf54746)
 
+* [바탕화면 정리(연습 문제)](https://6200.notion.site/32c8a6ee7a3540ec9291710fc26a423d)
+
 * [개인정보 수집 유효기간(2023 KAKAO BLIND RECRUITMENT)](https://6200.notion.site/2023-KAKAO-BLIND-RECRUITMENT-a553a4b3799749f08aa2da0f37edc414)
 
 * [둘만의 암호(연습 문제)](https://6200.notion.site/80b359cfc215457382fed167a95c15aa)
