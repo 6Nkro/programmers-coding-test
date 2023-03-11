@@ -122,7 +122,7 @@ function solution(id_list, report, k) {
     id_list.forEach(id => idMap[id] = {targetList: new Set(), reported: 0})
     for (let i = 0; i < report.length; i++) {
         const [id, target] = report[i].split(" ")
-				const isDuplicate = idMap[id].targetList.size === idMap[id].targetList.add(target).size
+	const isDuplicate = idMap[id].targetList.size === idMap[id].targetList.add(target).size
         idMap[target].reported += isDuplicate ? 0 : 1
     }
     return id_list.map(id => [...idMap[id].targetList].reduce((acc, target) => acc + (idMap[target].reported >= k), 0))
