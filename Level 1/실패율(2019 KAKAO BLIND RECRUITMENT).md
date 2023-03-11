@@ -35,7 +35,7 @@
 ```jsx
 function solution(N, stages) {
     const stagesMap = {}
-		// 각 스테이지에 멈춰있는 사용자 수를 저장
+    // 각 스테이지에 멈춰있는 사용자 수를 저장
     stages.forEach(stage => stagesMap[stage] = stagesMap[stage] ? ++stagesMap[stage] : 1)
     
     let remain = stages.length
