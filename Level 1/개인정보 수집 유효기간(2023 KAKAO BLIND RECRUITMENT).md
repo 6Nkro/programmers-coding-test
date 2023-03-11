@@ -91,12 +91,12 @@ function solution(today, terms, privacies) {
     })
 
     return answer
-}드
+}
 ```
 
 #
 
-> 코드 개선
+> 가독성 개선
 > 
 ```jsx
 function solution(today, terms, privacies) {
