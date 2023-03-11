@@ -69,6 +69,8 @@
 | ["muzi", "frodo", "apeach", "neo"] | ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"] | 2 | [2,1,1,0] |
 | ["con", "ryan"] | ["ryan con", "ryan con", "ryan con", "ryan con"] | 3 | [0,0] |
 
+#
+
 > 해결
 
 ```jsx
@@ -109,10 +111,9 @@ function solution(id_list, report, k) {
 | 테스트 20 〉 | 통과 (213.41ms, 58.6MB) |
 | 테스트 21 〉 | 통과 (300.44ms, 64.3MB) |
 
----
+#
 
 > 효율 개선
-> 
 
 ```jsx
 function solution(id_list, report, k) {
