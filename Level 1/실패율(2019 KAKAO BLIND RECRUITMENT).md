@@ -49,3 +49,21 @@ function solution(N, stages) {
     return fail.sort((a, b) => b.rate - a.rate).map(el => el.stage)
 }
 ```
+
+> 가독성 개선
+
+```jsx
+function solution(N, stages) {
+    const stagesMap = {}
+    stages.forEach(stage => stagesMap[stage] = stagesMap[stage] ? ++stagesMap[stage] : 1)
+    let survivor = stages.length
+    const result = []
+    for (let stage = 1; stage <= N; stage++) {
+        const currUsers = stagesMap[stage] || 0
+        const failRate = currUsers / survivor
+        result.push({stage, failRate})
+        survivor -= currUsers
+    }
+    return result.sort((a, b) => b.failRate - a.failRate).map(el => el.stage) 
+}
+```
