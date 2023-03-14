@@ -65,7 +65,7 @@ function solution(m, n, board) {
     
     // 블록 확인을 위한 좌표 배열과 해당 좌표가 모두 같은 값인지 확인하는 함수
     const square = [[0, 1], [1, 0], [1, 1]]
-    const isSquare = (row, col) => square.every(([x, y]) => board[row][col] === board[row + x][col + y])
+    const isSquare = (row, col) => square.every(([y, x]) => board[row][col] === board[row + y][col + x])
     
     // 지워진 블록 개수를 세는 함수
     const getClearCount = stack => {
@@ -73,8 +73,8 @@ function solution(m, n, board) {
         for (let i = 0; i < stack.length; i++) {
             const [row, col] = stack[i]
             const fullSquare = [[0, 0], [0, 1], [1, 0], [1, 1]]
-            count += fullSquare.map(([x, y]) => board[row + x][col + y]).filter(el => el).length
-            fullSquare.forEach(([x, y]) => board[row + x][col + y] = false)
+            count += fullSquare.map(([y, x]) => board[row + y][col + x]).filter(el => el).length
+            fullSquare.forEach(([y, x]) => board[row + y][col + x] = false)
         }
         return count
     }
@@ -83,9 +83,9 @@ function solution(m, n, board) {
     const sortBoard = stack => {
         const set = new Set()
         for (let i = 0; i < stack.length; i++) {
-            const x = stack[i][0]
-            set.add(x)
-            set.add(x + 1)
+            const y = stack[i][0]
+            set.add(y)
+            set.add(y + 1)
         }
         [...set].forEach(row => board[row].sort(a => a || -1))
     }
