@@ -116,12 +116,14 @@ function solution(survey, choices) {
 ```jsx
 function solution(survey, choices) {
     const typeMap = { RT: 0, CF: 0, JM: 0, AN: 0 }
+    
     for (let i = 0; i < survey.length; i++) {
         let [type, score] = [survey[i], choices[i]]
         const isReverse = typeMap[type] === undefined
         type = isReverse ? `${type.charAt(1)}${type.charAt(0)}` : type
         typeMap[type] += isReverse ? score - 4 : -score + 4
     }
+    
     return Object.entries(typeMap).map(([type, score]) => score >= 0 ? type.charAt(0) : type.charAt(1)).join("")
 }
 ```
