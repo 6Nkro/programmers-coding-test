@@ -56,6 +56,7 @@ function solution(N, stages) {
 function solution(N, stages) {
     const stagesMap = {}
     stages.forEach(stage => stagesMap[stage] = stagesMap[stage] ? ++stagesMap[stage] : 1)
+    
     let survivor = stages.length
     const result = []
     for (let stage = 1; stage <= N; stage++) {
@@ -64,6 +65,7 @@ function solution(N, stages) {
         result.push({stage, failRate})
         survivor -= currUsers
     }
+    
     return result.sort((a, b) => b.failRate - a.failRate).map(el => el.stage) 
 }
 ```
