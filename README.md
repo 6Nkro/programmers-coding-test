@@ -42,13 +42,13 @@
 
 * [문자열 압축(2020 KAKAO BLIND RECRUITMENT)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95(2020%20KAKAO%20BLIND%20RECRUITMENT).md)
 
-* [뉴스 클러스터링(2018 KAKAO BLIND RECRUITMENT)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81(2018%20KAKAO%20BLIND%20RECRUITMENT).md)
-
 * [프렌즈4블록(2018 KAKAO BLIND RECRUITMENT)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D(2018%20KAKAO%20BLIND%20RECRUITMENT).md)
 
 * [파일명 정렬(2018 KAKAO BLIND RECRUITMENT)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC(2018%20KAKAO%20BLIND%20RECRUITMENT).md)
 
 * [캐시(2018 KAKAO BLIND RECRUITMENT)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%EC%BA%90%EC%8B%9C(2018%20KAKAO%20BLIND%20RECRUITMENT).md)
+
+* [뉴스 클러스터링(2018 KAKAO BLIND RECRUITMENT)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81(2018%20KAKAO%20BLIND%20RECRUITMENT).md)
 
 * [튜플(2019 카카오 개발자 겨울 인턴십)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%ED%8A%9C%ED%94%8C(2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD).md)
 
