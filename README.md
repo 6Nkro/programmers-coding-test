@@ -50,6 +50,8 @@
 
 * [뉴스 클러스터링(2018 KAKAO BLIND RECRUITMENT)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81(2018%20KAKAO%20BLIND%20RECRUITMENT).md)
 
+* [k진수에서 소수 개수 구하기(2022 KAKAO BLIND RECRUITMENT)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0(2022%20KAKAO%20BLIND%20RECRUITMENT).md)
+
 * [튜플(2019 카카오 개발자 겨울 인턴십)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%ED%8A%9C%ED%94%8C(2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD).md)
 
 * [괄호 회전하기(월간 코드 챌린지 시즌2)](https://github.com/U-kim/programmers-coding-test/blob/main/Level%202/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0(%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2).md)
