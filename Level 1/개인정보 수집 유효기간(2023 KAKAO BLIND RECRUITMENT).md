@@ -102,11 +102,13 @@ function solution(today, terms, privacies) {
 function solution(today, terms, privacies) {
     const getDays = ([year, month, days]) => (+year * 336) + ((+month - 1) * 28) + +days
     const todayDays = getDays(today.split("."))
+    
     let termsMap = {}
     for (let i = 0; i < terms.length; i++) {
         const [type, days] = terms[i].split(" ")
         termsMap[type] = +days * 28
     }
+    
     const result = []
     for (let i = 0; i < privacies.length; i++) {
         const [date, type] = privacies[i].split(" ")
@@ -115,6 +117,7 @@ function solution(today, terms, privacies) {
             result.push(i + 1)
         }
     }
+    
     return result
 }
 ```
